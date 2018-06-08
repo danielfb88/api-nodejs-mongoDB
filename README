@@ -1,0 +1,19 @@
+API genérica de NodeJS e MongoDB contendo:
+
+- Autenticação por token
+- CRUD
+- ACL (Controle de acesso por perfil)
+- Log de aplicação
+- Log de requisição
+- Cluster
+- TDD
+
+Instruções:
+- inicie o serviço do mongoDB
+- execute os testes da aplicação com o comando: npm run test
+
+Desenvolvimento:
+- npm run dev
+
+Produção:
+- npm run production
